@@ -1,0 +1,2 @@
+# Smart-Pricing-Retention-Data-Driven-Solutions-for-Airbnb-and-Telecom-Industries
+Airbnb Price Prediction – Built regression models on 74,000+ listings, achieving R² = 0.71 with Random Forest. Customer Churn Prediction – Developed Random Forest classifier on 7,000+ telecom records, reaching 94.7% test accuracy with precision = 0.92 and recall = 0.87, highlighting tenure and monthly charges as top churn factors. 
